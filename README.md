@@ -1,2 +1,2 @@
 # mfjdigital.github.io
-Siteweb
+Redirect site from Netlify
